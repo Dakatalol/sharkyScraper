@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+selenium = "*"
+webdriver_manager = "*"
+bs4 = "*"
+requests = "*"
+fastapi = "*"
+uvicorn = "*"
+fake_useragent = "*"
+
+[requires]
+python_version = "*"
